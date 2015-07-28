@@ -24,7 +24,7 @@ thanks to
 * [](http://mouapp.com/)  
 * ...
 
-##关于作者
+##about me
 
 ```javascript
   var yoyiki = {
